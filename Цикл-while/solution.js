@@ -7,7 +7,7 @@ const printNumbers = (initialNumber) => {
   }
   console.log('finished!');
 };
-  // END
+// END
 
 export default printNumbers;
 
