@@ -1,4 +1,4 @@
-// BEGIN (write your solution here)
+// BEGIN
 const getLetter = (name, i) => name.slice(i - 1, i);
 // END
 
